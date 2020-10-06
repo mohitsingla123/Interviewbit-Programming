@@ -16,3 +16,5 @@ Solution of Programming
 2. Max Sum Contiguous Substring : [Java Solution](https://github.com/mohitsingla123/Interviewbit-Programming/blob/master/Level%2002/Arrays/Max_Sum_Contiguous_Subarray.java)
 
 3. Maximum Absolute Difference : [Java Solution](https://github.com/mohitsingla123/Interviewbit-Programming/blob/master/Level%2002/Arrays/Maximum_Absolute_Difference.java)
+
+4. Largest Number : [Java Solution](https://github.com/mohitsingla123/Interviewbit-Programming/blob/master/Level%2002/Arrays/LargestNumer.java)
