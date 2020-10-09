@@ -18,3 +18,5 @@ Solution of Programming
 3. Maximum Absolute Difference : [Java Solution](https://github.com/mohitsingla123/Interviewbit-Programming/blob/master/Level%2002/Arrays/Maximum_Absolute_Difference.java)
 
 4. Largest Number : [Java Solution](https://github.com/mohitsingla123/Interviewbit-Programming/blob/master/Level%2002/Arrays/LargestNumer.java)
+
+5. Find Dublicate in Array  :   [Java Solution](https://github.com/mohitsingla123/Interviewbit-Programming/blob/master/Level%2002/Arrays/Find_Duplicate_in_Array.java)
