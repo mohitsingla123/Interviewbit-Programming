@@ -20,3 +20,5 @@ Solution of Programming
 4. Largest Number : [Java Solution](https://github.com/mohitsingla123/Interviewbit-Programming/blob/master/Level%2002/Arrays/LargestNumer.java)
 
 5. Find Dublicate in Array  :   [Java Solution](https://github.com/mohitsingla123/Interviewbit-Programming/blob/master/Level%2002/Arrays/Find_Duplicate_in_Array.java)
+
+6. Sort array with square!  :   [Java solution](https://github.com/mohitsingla123/Interviewbit-Programming/blob/master/Level%2002/Arrays/Sort_array_with_Square.java)
