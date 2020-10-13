@@ -24,3 +24,5 @@ Solution of Programming
 6. Sort array with square!  :   [Java solution](https://github.com/mohitsingla123/Interviewbit-Programming/blob/master/Level%2002/Arrays/Sort_array_with_Square.java)
 
 7. Rotate Matrix  :   [Java Solution](https://github.com/mohitsingla123/Interviewbit-Programming/blob/master/Level%2002/Arrays/RotateMatrix.java)
+
+8. Wave Array   :   [Java Solution](https://github.com/mohitsingla123/Interviewbit-Programming/blob/master/Level%2002/Arrays/WaveArray.java)
